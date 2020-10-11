@@ -2,9 +2,10 @@ name: Update
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [ main ]    
+  schedule:
+    # UTC 10:00 is noon in Berlin (CEST).
+    - cron: "0 10 * * *"
 
 jobs:
   build:
