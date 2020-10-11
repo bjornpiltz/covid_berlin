@@ -34,10 +34,10 @@ jobs:
         name: result
         path: LAGeSo.csv
     - name: push
-              run: |
-                  git config --global user.name 'autocommit'
-                  git config --global user.email 'autocommit@users.noreply.github.com'
-                  git add --all
-                  git commit --allow-empty -m "Github Action autocommit"
-                  git push
+      run: |
+        git config --global user.name 'autocommit'
+        git config --global user.email 'autocommit@users.noreply.github.com'
+        git add --all
+        git commit --allow-empty -m "Github Action autocommit"
+        git push
     
