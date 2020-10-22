@@ -231,6 +231,7 @@ date,location,new_cases
 2020-10-18,Marzahn-Hellersdorf,1
 2020-10-19,Marzahn-Hellersdorf,9
 2020-10-20,Marzahn-Hellersdorf,26
+2020-10-21,Marzahn-Hellersdorf,31
 2020-03-03,Mitte,3
 2020-03-04,Mitte,0
 2020-03-05,Mitte,4
@@ -462,7 +463,8 @@ date,location,new_cases
 2020-10-17,Mitte,0
 2020-10-18,Mitte,30
 2020-10-19,Mitte,118
-2020-10-20,Mitte,174
+2020-10-20,Mitte,172
+2020-10-21,Mitte,196
 2020-03-03,Neukoelln,1
 2020-03-04,Neukoelln,0
 2020-03-05,Neukoelln,0
@@ -689,12 +691,13 @@ date,location,new_cases
 2020-10-12,Neukoelln,145
 2020-10-13,Neukoelln,80
 2020-10-14,Neukoelln,92
-2020-10-15,Neukoelln,113
+2020-10-15,Neukoelln,114
 2020-10-16,Neukoelln,115
 2020-10-17,Neukoelln,0
 2020-10-18,Neukoelln,80
 2020-10-19,Neukoelln,137
 2020-10-20,Neukoelln,182
+2020-10-21,Neukoelln,153
 2020-03-03,Tempelhof-Schoeneberg,1
 2020-03-04,Tempelhof-Schoeneberg,0
 2020-03-05,Tempelhof-Schoeneberg,0
@@ -926,7 +929,8 @@ date,location,new_cases
 2020-10-17,Tempelhof-Schoeneberg,30
 2020-10-18,Tempelhof-Schoeneberg,30
 2020-10-19,Tempelhof-Schoeneberg,99
-2020-10-20,Tempelhof-Schoeneberg,150
+2020-10-20,Tempelhof-Schoeneberg,147
+2020-10-21,Tempelhof-Schoeneberg,79
 2020-03-03,Friedrichshain-Kreuzberg,0
 2020-03-04,Friedrichshain-Kreuzberg,2
 2020-03-05,Friedrichshain-Kreuzberg,2
@@ -1153,12 +1157,13 @@ date,location,new_cases
 2020-10-12,Friedrichshain-Kreuzberg,75
 2020-10-13,Friedrichshain-Kreuzberg,63
 2020-10-14,Friedrichshain-Kreuzberg,71
-2020-10-15,Friedrichshain-Kreuzberg,46
-2020-10-16,Friedrichshain-Kreuzberg,61
+2020-10-15,Friedrichshain-Kreuzberg,47
+2020-10-16,Friedrichshain-Kreuzberg,62
 2020-10-17,Friedrichshain-Kreuzberg,13
 2020-10-18,Friedrichshain-Kreuzberg,0
 2020-10-19,Friedrichshain-Kreuzberg,142
 2020-10-20,Friedrichshain-Kreuzberg,71
+2020-10-21,Friedrichshain-Kreuzberg,80
 2020-03-03,Pankow,0
 2020-03-04,Pankow,1
 2020-03-05,Pankow,2
@@ -1390,7 +1395,8 @@ date,location,new_cases
 2020-10-17,Pankow,3
 2020-10-18,Pankow,0
 2020-10-19,Pankow,44
-2020-10-20,Pankow,53
+2020-10-20,Pankow,54
+2020-10-21,Pankow,55
 2020-03-03,Reinickendorf,0
 2020-03-04,Reinickendorf,0
 2020-03-05,Reinickendorf,2
@@ -1619,10 +1625,11 @@ date,location,new_cases
 2020-10-14,Reinickendorf,50
 2020-10-15,Reinickendorf,51
 2020-10-16,Reinickendorf,46
-2020-10-17,Reinickendorf,37
+2020-10-17,Reinickendorf,38
 2020-10-18,Reinickendorf,14
 2020-10-19,Reinickendorf,22
 2020-10-20,Reinickendorf,51
+2020-10-21,Reinickendorf,60
 2020-03-03,Charlottenburg-Wilmersdorf,0
 2020-03-04,Charlottenburg-Wilmersdorf,0
 2020-03-05,Charlottenburg-Wilmersdorf,0
@@ -1849,12 +1856,13 @@ date,location,new_cases
 2020-10-12,Charlottenburg-Wilmersdorf,38
 2020-10-13,Charlottenburg-Wilmersdorf,47
 2020-10-14,Charlottenburg-Wilmersdorf,59
-2020-10-15,Charlottenburg-Wilmersdorf,63
-2020-10-16,Charlottenburg-Wilmersdorf,73
+2020-10-15,Charlottenburg-Wilmersdorf,62
+2020-10-16,Charlottenburg-Wilmersdorf,72
 2020-10-17,Charlottenburg-Wilmersdorf,19
 2020-10-18,Charlottenburg-Wilmersdorf,0
-2020-10-19,Charlottenburg-Wilmersdorf,79
+2020-10-19,Charlottenburg-Wilmersdorf,80
 2020-10-20,Charlottenburg-Wilmersdorf,66
+2020-10-21,Charlottenburg-Wilmersdorf,52
 2020-03-03,Spandau,0
 2020-03-04,Spandau,0
 2020-03-05,Spandau,0
@@ -2087,6 +2095,7 @@ date,location,new_cases
 2020-10-18,Spandau,26
 2020-10-19,Spandau,21
 2020-10-20,Spandau,24
+2020-10-21,Spandau,0
 2020-03-03,Lichtenberg,0
 2020-03-04,Lichtenberg,0
 2020-03-05,Lichtenberg,0
@@ -2319,6 +2328,7 @@ date,location,new_cases
 2020-10-18,Lichtenberg,0
 2020-10-19,Lichtenberg,32
 2020-10-20,Lichtenberg,31
+2020-10-21,Lichtenberg,42
 2020-03-03,Steglitz-Zehlendorf,0
 2020-03-04,Steglitz-Zehlendorf,0
 2020-03-05,Steglitz-Zehlendorf,0
@@ -2551,6 +2561,7 @@ date,location,new_cases
 2020-10-18,Steglitz-Zehlendorf,14
 2020-10-19,Steglitz-Zehlendorf,44
 2020-10-20,Steglitz-Zehlendorf,40
+2020-10-21,Steglitz-Zehlendorf,32
 2020-03-03,Treptow-Koepenick,0
 2020-03-04,Treptow-Koepenick,0
 2020-03-05,Treptow-Koepenick,0
@@ -2783,3 +2794,4 @@ date,location,new_cases
 2020-10-18,Treptow-Koepenick,0
 2020-10-19,Treptow-Koepenick,31
 2020-10-20,Treptow-Koepenick,37
+2020-10-21,Treptow-Koepenick,36
