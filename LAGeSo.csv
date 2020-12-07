@@ -276,6 +276,7 @@ date,location,new_cases
 2020-12-02,Marzahn-Hellersdorf,52
 2020-12-03,Marzahn-Hellersdorf,69
 2020-12-04,Marzahn-Hellersdorf,77
+2020-12-05,Marzahn-Hellersdorf,43
 2020-03-03,Mitte,3
 2020-03-04,Mitte,0
 2020-03-05,Mitte,4
@@ -553,6 +554,7 @@ date,location,new_cases
 2020-12-02,Mitte,106
 2020-12-03,Mitte,245
 2020-12-04,Mitte,182
+2020-12-05,Mitte,0
 2020-03-03,Neukoelln,1
 2020-03-04,Neukoelln,0
 2020-03-05,Neukoelln,0
@@ -830,6 +832,7 @@ date,location,new_cases
 2020-12-02,Neukoelln,134
 2020-12-03,Neukoelln,83
 2020-12-04,Neukoelln,146
+2020-12-05,Neukoelln,38
 2020-03-03,Tempelhof-Schoeneberg,1
 2020-03-04,Tempelhof-Schoeneberg,0
 2020-03-05,Tempelhof-Schoeneberg,0
@@ -1107,6 +1110,7 @@ date,location,new_cases
 2020-12-02,Tempelhof-Schoeneberg,110
 2020-12-03,Tempelhof-Schoeneberg,105
 2020-12-04,Tempelhof-Schoeneberg,139
+2020-12-05,Tempelhof-Schoeneberg,68
 2020-03-03,Friedrichshain-Kreuzberg,0
 2020-03-04,Friedrichshain-Kreuzberg,2
 2020-03-05,Friedrichshain-Kreuzberg,2
@@ -1384,6 +1388,7 @@ date,location,new_cases
 2020-12-02,Friedrichshain-Kreuzberg,89
 2020-12-03,Friedrichshain-Kreuzberg,170
 2020-12-04,Friedrichshain-Kreuzberg,161
+2020-12-05,Friedrichshain-Kreuzberg,18
 2020-03-03,Pankow,0
 2020-03-04,Pankow,1
 2020-03-05,Pankow,2
@@ -1661,6 +1666,7 @@ date,location,new_cases
 2020-12-02,Pankow,105
 2020-12-03,Pankow,111
 2020-12-04,Pankow,93
+2020-12-05,Pankow,0
 2020-03-03,Reinickendorf,0
 2020-03-04,Reinickendorf,0
 2020-03-05,Reinickendorf,2
@@ -1937,7 +1943,8 @@ date,location,new_cases
 2020-12-01,Reinickendorf,89
 2020-12-02,Reinickendorf,79
 2020-12-03,Reinickendorf,137
-2020-12-04,Reinickendorf,104
+2020-12-04,Reinickendorf,105
+2020-12-05,Reinickendorf,45
 2020-03-03,Charlottenburg-Wilmersdorf,0
 2020-03-04,Charlottenburg-Wilmersdorf,0
 2020-03-05,Charlottenburg-Wilmersdorf,0
@@ -2214,7 +2221,8 @@ date,location,new_cases
 2020-12-01,Charlottenburg-Wilmersdorf,86
 2020-12-02,Charlottenburg-Wilmersdorf,99
 2020-12-03,Charlottenburg-Wilmersdorf,117
-2020-12-04,Charlottenburg-Wilmersdorf,83
+2020-12-04,Charlottenburg-Wilmersdorf,84
+2020-12-05,Charlottenburg-Wilmersdorf,63
 2020-03-03,Spandau,0
 2020-03-04,Spandau,0
 2020-03-05,Spandau,0
@@ -2491,7 +2499,8 @@ date,location,new_cases
 2020-12-01,Spandau,126
 2020-12-02,Spandau,129
 2020-12-03,Spandau,121
-2020-12-04,Spandau,138
+2020-12-04,Spandau,139
+2020-12-05,Spandau,62
 2020-03-03,Lichtenberg,0
 2020-03-04,Lichtenberg,0
 2020-03-05,Lichtenberg,0
@@ -2769,6 +2778,7 @@ date,location,new_cases
 2020-12-02,Lichtenberg,85
 2020-12-03,Lichtenberg,54
 2020-12-04,Lichtenberg,113
+2020-12-05,Lichtenberg,0
 2020-03-03,Steglitz-Zehlendorf,0
 2020-03-04,Steglitz-Zehlendorf,0
 2020-03-05,Steglitz-Zehlendorf,0
@@ -3045,7 +3055,8 @@ date,location,new_cases
 2020-12-01,Steglitz-Zehlendorf,83
 2020-12-02,Steglitz-Zehlendorf,81
 2020-12-03,Steglitz-Zehlendorf,109
-2020-12-04,Steglitz-Zehlendorf,88
+2020-12-04,Steglitz-Zehlendorf,96
+2020-12-05,Steglitz-Zehlendorf,59
 2020-03-03,Treptow-Koepenick,0
 2020-03-04,Treptow-Koepenick,0
 2020-03-05,Treptow-Koepenick,0
@@ -3323,3 +3334,4 @@ date,location,new_cases
 2020-12-02,Treptow-Koepenick,78
 2020-12-03,Treptow-Koepenick,66
 2020-12-04,Treptow-Koepenick,83
+2020-12-05,Treptow-Koepenick,0
