@@ -431,6 +431,7 @@ date,location,new_cases
 2021-05-06,Marzahn-Hellersdorf,47
 2021-05-07,Marzahn-Hellersdorf,31
 2021-05-08,Marzahn-Hellersdorf,56
+2021-05-09,Marzahn-Hellersdorf,0
 2020-03-03,Mitte,3
 2020-03-04,Mitte,0
 2020-03-05,Mitte,4
@@ -863,6 +864,7 @@ date,location,new_cases
 2021-05-06,Mitte,54
 2021-05-07,Mitte,86
 2021-05-08,Mitte,0
+2021-05-09,Mitte,0
 2020-03-03,Neukoelln,1
 2020-03-04,Neukoelln,0
 2020-03-05,Neukoelln,0
@@ -1295,6 +1297,7 @@ date,location,new_cases
 2021-05-06,Neukoelln,66
 2021-05-07,Neukoelln,59
 2021-05-08,Neukoelln,0
+2021-05-09,Neukoelln,0
 2020-03-03,Tempelhof-Schoeneberg,1
 2020-03-04,Tempelhof-Schoeneberg,0
 2020-03-05,Tempelhof-Schoeneberg,0
@@ -1725,8 +1728,9 @@ date,location,new_cases
 2021-05-04,Tempelhof-Schoeneberg,62
 2021-05-05,Tempelhof-Schoeneberg,70
 2021-05-06,Tempelhof-Schoeneberg,67
-2021-05-07,Tempelhof-Schoeneberg,50
-2021-05-08,Tempelhof-Schoeneberg,27
+2021-05-07,Tempelhof-Schoeneberg,51
+2021-05-08,Tempelhof-Schoeneberg,39
+2021-05-09,Tempelhof-Schoeneberg,8
 2020-03-03,Friedrichshain-Kreuzberg,0
 2020-03-04,Friedrichshain-Kreuzberg,2
 2020-03-05,Friedrichshain-Kreuzberg,2
@@ -2147,7 +2151,7 @@ date,location,new_cases
 2021-04-24,Friedrichshain-Kreuzberg,53
 2021-04-25,Friedrichshain-Kreuzberg,0
 2021-04-26,Friedrichshain-Kreuzberg,104
-2021-04-27,Friedrichshain-Kreuzberg,87
+2021-04-27,Friedrichshain-Kreuzberg,88
 2021-04-28,Friedrichshain-Kreuzberg,50
 2021-04-29,Friedrichshain-Kreuzberg,72
 2021-04-30,Friedrichshain-Kreuzberg,55
@@ -2156,9 +2160,10 @@ date,location,new_cases
 2021-05-03,Friedrichshain-Kreuzberg,31
 2021-05-04,Friedrichshain-Kreuzberg,61
 2021-05-05,Friedrichshain-Kreuzberg,52
-2021-05-06,Friedrichshain-Kreuzberg,45
-2021-05-07,Friedrichshain-Kreuzberg,38
-2021-05-08,Friedrichshain-Kreuzberg,9
+2021-05-06,Friedrichshain-Kreuzberg,46
+2021-05-07,Friedrichshain-Kreuzberg,39
+2021-05-08,Friedrichshain-Kreuzberg,26
+2021-05-09,Friedrichshain-Kreuzberg,0
 2020-03-03,Pankow,0
 2020-03-04,Pankow,1
 2020-03-05,Pankow,2
@@ -2591,6 +2596,7 @@ date,location,new_cases
 2021-05-06,Pankow,39
 2021-05-07,Pankow,40
 2021-05-08,Pankow,0
+2021-05-09,Pankow,0
 2020-03-03,Reinickendorf,0
 2020-03-04,Reinickendorf,0
 2020-03-05,Reinickendorf,2
@@ -3019,10 +3025,11 @@ date,location,new_cases
 2021-05-02,Reinickendorf,9
 2021-05-03,Reinickendorf,30
 2021-05-04,Reinickendorf,39
-2021-05-05,Reinickendorf,50
-2021-05-06,Reinickendorf,47
-2021-05-07,Reinickendorf,50
-2021-05-08,Reinickendorf,19
+2021-05-05,Reinickendorf,51
+2021-05-06,Reinickendorf,53
+2021-05-07,Reinickendorf,52
+2021-05-08,Reinickendorf,15
+2021-05-09,Reinickendorf,13
 2020-03-03,Charlottenburg-Wilmersdorf,0
 2020-03-04,Charlottenburg-Wilmersdorf,0
 2020-03-05,Charlottenburg-Wilmersdorf,0
@@ -3454,7 +3461,8 @@ date,location,new_cases
 2021-05-05,Charlottenburg-Wilmersdorf,63
 2021-05-06,Charlottenburg-Wilmersdorf,40
 2021-05-07,Charlottenburg-Wilmersdorf,47
-2021-05-08,Charlottenburg-Wilmersdorf,10
+2021-05-08,Charlottenburg-Wilmersdorf,11
+2021-05-09,Charlottenburg-Wilmersdorf,0
 2020-03-03,Spandau,0
 2020-03-04,Spandau,0
 2020-03-05,Spandau,0
@@ -3887,6 +3895,7 @@ date,location,new_cases
 2021-05-06,Spandau,57
 2021-05-07,Spandau,47
 2021-05-08,Spandau,15
+2021-05-09,Spandau,0
 2020-03-03,Lichtenberg,0
 2020-03-04,Lichtenberg,0
 2020-03-05,Lichtenberg,0
@@ -4319,6 +4328,7 @@ date,location,new_cases
 2021-05-06,Lichtenberg,57
 2021-05-07,Lichtenberg,56
 2021-05-08,Lichtenberg,0
+2021-05-09,Lichtenberg,0
 2020-03-03,Steglitz-Zehlendorf,0
 2020-03-04,Steglitz-Zehlendorf,0
 2020-03-05,Steglitz-Zehlendorf,0
@@ -4750,7 +4760,8 @@ date,location,new_cases
 2021-05-05,Steglitz-Zehlendorf,67
 2021-05-06,Steglitz-Zehlendorf,21
 2021-05-07,Steglitz-Zehlendorf,34
-2021-05-08,Steglitz-Zehlendorf,6
+2021-05-08,Steglitz-Zehlendorf,25
+2021-05-09,Steglitz-Zehlendorf,0
 2020-03-03,Treptow-Koepenick,0
 2020-03-04,Treptow-Koepenick,0
 2020-03-05,Treptow-Koepenick,0
@@ -5183,3 +5194,4 @@ date,location,new_cases
 2021-05-06,Treptow-Koepenick,42
 2021-05-07,Treptow-Koepenick,42
 2021-05-08,Treptow-Koepenick,0
+2021-05-09,Treptow-Koepenick,0
