@@ -626,6 +626,7 @@ date,location,new_cases
 2021-11-17,Marzahn-Hellersdorf,160
 2021-11-18,Marzahn-Hellersdorf,80
 2021-11-19,Marzahn-Hellersdorf,55
+2021-11-20,Marzahn-Hellersdorf,0
 2020-03-03,Mitte,3
 2020-03-04,Mitte,0
 2020-03-05,Mitte,4
@@ -1253,6 +1254,7 @@ date,location,new_cases
 2021-11-17,Mitte,267
 2021-11-18,Mitte,231
 2021-11-19,Mitte,218
+2021-11-20,Mitte,0
 2020-03-03,Neukoelln,1
 2020-03-04,Neukoelln,0
 2020-03-05,Neukoelln,0
@@ -1880,6 +1882,7 @@ date,location,new_cases
 2021-11-17,Neukoelln,248
 2021-11-18,Neukoelln,159
 2021-11-19,Neukoelln,123
+2021-11-20,Neukoelln,0
 2020-03-03,Tempelhof-Schoeneberg,1
 2020-03-04,Tempelhof-Schoeneberg,0
 2020-03-05,Tempelhof-Schoeneberg,0
@@ -2507,6 +2510,7 @@ date,location,new_cases
 2021-11-17,Tempelhof-Schoeneberg,195
 2021-11-18,Tempelhof-Schoeneberg,172
 2021-11-19,Tempelhof-Schoeneberg,130
+2021-11-20,Tempelhof-Schoeneberg,0
 2020-03-03,Friedrichshain-Kreuzberg,0
 2020-03-04,Friedrichshain-Kreuzberg,2
 2020-03-05,Friedrichshain-Kreuzberg,2
@@ -3126,14 +3130,15 @@ date,location,new_cases
 2021-11-09,Friedrichshain-Kreuzberg,308
 2021-11-10,Friedrichshain-Kreuzberg,250
 2021-11-11,Friedrichshain-Kreuzberg,170
-2021-11-12,Friedrichshain-Kreuzberg,150
-2021-11-13,Friedrichshain-Kreuzberg,223
+2021-11-12,Friedrichshain-Kreuzberg,151
+2021-11-13,Friedrichshain-Kreuzberg,224
 2021-11-14,Friedrichshain-Kreuzberg,59
-2021-11-15,Friedrichshain-Kreuzberg,239
-2021-11-16,Friedrichshain-Kreuzberg,221
-2021-11-17,Friedrichshain-Kreuzberg,270
-2021-11-18,Friedrichshain-Kreuzberg,222
-2021-11-19,Friedrichshain-Kreuzberg,91
+2021-11-15,Friedrichshain-Kreuzberg,240
+2021-11-16,Friedrichshain-Kreuzberg,220
+2021-11-17,Friedrichshain-Kreuzberg,269
+2021-11-18,Friedrichshain-Kreuzberg,229
+2021-11-19,Friedrichshain-Kreuzberg,137
+2021-11-20,Friedrichshain-Kreuzberg,27
 2020-03-03,Pankow,0
 2020-03-04,Pankow,1
 2020-03-05,Pankow,2
@@ -3761,6 +3766,7 @@ date,location,new_cases
 2021-11-17,Pankow,325
 2021-11-18,Pankow,313
 2021-11-19,Pankow,187
+2021-11-20,Pankow,0
 2020-03-03,Reinickendorf,0
 2020-03-04,Reinickendorf,0
 2020-03-05,Reinickendorf,2
@@ -4388,6 +4394,7 @@ date,location,new_cases
 2021-11-17,Reinickendorf,206
 2021-11-18,Reinickendorf,151
 2021-11-19,Reinickendorf,215
+2021-11-20,Reinickendorf,0
 2020-03-03,Charlottenburg-Wilmersdorf,0
 2020-03-04,Charlottenburg-Wilmersdorf,0
 2020-03-05,Charlottenburg-Wilmersdorf,0
@@ -5005,7 +5012,7 @@ date,location,new_cases
 2021-11-07,Charlottenburg-Wilmersdorf,0
 2021-11-08,Charlottenburg-Wilmersdorf,194
 2021-11-09,Charlottenburg-Wilmersdorf,143
-2021-11-10,Charlottenburg-Wilmersdorf,239
+2021-11-10,Charlottenburg-Wilmersdorf,240
 2021-11-11,Charlottenburg-Wilmersdorf,174
 2021-11-12,Charlottenburg-Wilmersdorf,153
 2021-11-13,Charlottenburg-Wilmersdorf,29
@@ -5014,7 +5021,8 @@ date,location,new_cases
 2021-11-16,Charlottenburg-Wilmersdorf,286
 2021-11-17,Charlottenburg-Wilmersdorf,280
 2021-11-18,Charlottenburg-Wilmersdorf,53
-2021-11-19,Charlottenburg-Wilmersdorf,242
+2021-11-19,Charlottenburg-Wilmersdorf,244
+2021-11-20,Charlottenburg-Wilmersdorf,43
 2020-03-03,Spandau,0
 2020-03-04,Spandau,0
 2020-03-05,Spandau,0
@@ -5642,6 +5650,7 @@ date,location,new_cases
 2021-11-17,Spandau,211
 2021-11-18,Spandau,185
 2021-11-19,Spandau,167
+2021-11-20,Spandau,0
 2020-03-03,Lichtenberg,0
 2020-03-04,Lichtenberg,0
 2020-03-05,Lichtenberg,0
@@ -6269,6 +6278,7 @@ date,location,new_cases
 2021-11-17,Lichtenberg,197
 2021-11-18,Lichtenberg,278
 2021-11-19,Lichtenberg,52
+2021-11-20,Lichtenberg,0
 2020-03-03,Steglitz-Zehlendorf,0
 2020-03-04,Steglitz-Zehlendorf,0
 2020-03-05,Steglitz-Zehlendorf,0
@@ -6896,6 +6906,7 @@ date,location,new_cases
 2021-11-17,Steglitz-Zehlendorf,96
 2021-11-18,Steglitz-Zehlendorf,107
 2021-11-19,Steglitz-Zehlendorf,1
+2021-11-20,Steglitz-Zehlendorf,0
 2020-03-03,Treptow-Koepenick,0
 2020-03-04,Treptow-Koepenick,0
 2020-03-05,Treptow-Koepenick,0
@@ -7523,3 +7534,4 @@ date,location,new_cases
 2021-11-17,Treptow-Koepenick,251
 2021-11-18,Treptow-Koepenick,223
 2021-11-19,Treptow-Koepenick,165
+2021-11-20,Treptow-Koepenick,0
