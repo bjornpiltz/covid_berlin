@@ -732,6 +732,7 @@ date,location,new_cases
 2022-03-03,Marzahn-Hellersdorf,877
 2022-03-04,Marzahn-Hellersdorf,687
 2022-03-05,Marzahn-Hellersdorf,141
+2022-03-06,Marzahn-Hellersdorf,0
 2020-03-03,Mitte,3
 2020-03-04,Mitte,0
 2020-03-05,Mitte,4
@@ -1465,6 +1466,7 @@ date,location,new_cases
 2022-03-03,Mitte,467
 2022-03-04,Mitte,554
 2022-03-05,Mitte,0
+2022-03-06,Mitte,0
 2020-03-03,Neukoelln,1
 2020-03-04,Neukoelln,0
 2020-03-05,Neukoelln,0
@@ -2198,6 +2200,7 @@ date,location,new_cases
 2022-03-03,Neukoelln,295
 2022-03-04,Neukoelln,183
 2022-03-05,Neukoelln,0
+2022-03-06,Neukoelln,0
 2020-03-03,Tempelhof-Schoeneberg,1
 2020-03-04,Tempelhof-Schoeneberg,0
 2020-03-05,Tempelhof-Schoeneberg,0
@@ -2931,6 +2934,7 @@ date,location,new_cases
 2022-03-03,Tempelhof-Schoeneberg,467
 2022-03-04,Tempelhof-Schoeneberg,395
 2022-03-05,Tempelhof-Schoeneberg,0
+2022-03-06,Tempelhof-Schoeneberg,0
 2020-03-03,Friedrichshain-Kreuzberg,0
 2020-03-04,Friedrichshain-Kreuzberg,2
 2020-03-05,Friedrichshain-Kreuzberg,2
@@ -3659,11 +3663,12 @@ date,location,new_cases
 2022-02-26,Friedrichshain-Kreuzberg,122
 2022-02-27,Friedrichshain-Kreuzberg,109
 2022-02-28,Friedrichshain-Kreuzberg,371
-2022-03-01,Friedrichshain-Kreuzberg,618
+2022-03-01,Friedrichshain-Kreuzberg,617
 2022-03-02,Friedrichshain-Kreuzberg,313
 2022-03-03,Friedrichshain-Kreuzberg,648
 2022-03-04,Friedrichshain-Kreuzberg,505
-2022-03-05,Friedrichshain-Kreuzberg,166
+2022-03-05,Friedrichshain-Kreuzberg,186
+2022-03-06,Friedrichshain-Kreuzberg,0
 2020-03-03,Pankow,0
 2020-03-04,Pankow,1
 2020-03-05,Pankow,2
@@ -4397,6 +4402,7 @@ date,location,new_cases
 2022-03-03,Pankow,805
 2022-03-04,Pankow,427
 2022-03-05,Pankow,0
+2022-03-06,Pankow,0
 2020-03-03,Reinickendorf,0
 2020-03-04,Reinickendorf,0
 2020-03-05,Reinickendorf,2
@@ -5126,10 +5132,11 @@ date,location,new_cases
 2022-02-27,Reinickendorf,113
 2022-02-28,Reinickendorf,327
 2022-03-01,Reinickendorf,344
-2022-03-02,Reinickendorf,409
+2022-03-02,Reinickendorf,410
 2022-03-03,Reinickendorf,422
-2022-03-04,Reinickendorf,307
+2022-03-04,Reinickendorf,311
 2022-03-05,Reinickendorf,72
+2022-03-06,Reinickendorf,103
 2020-03-03,Charlottenburg-Wilmersdorf,0
 2020-03-04,Charlottenburg-Wilmersdorf,0
 2020-03-05,Charlottenburg-Wilmersdorf,0
@@ -5859,10 +5866,11 @@ date,location,new_cases
 2022-02-27,Charlottenburg-Wilmersdorf,88
 2022-02-28,Charlottenburg-Wilmersdorf,502
 2022-03-01,Charlottenburg-Wilmersdorf,428
-2022-03-02,Charlottenburg-Wilmersdorf,533
+2022-03-02,Charlottenburg-Wilmersdorf,538
 2022-03-03,Charlottenburg-Wilmersdorf,442
-2022-03-04,Charlottenburg-Wilmersdorf,370
-2022-03-05,Charlottenburg-Wilmersdorf,60
+2022-03-04,Charlottenburg-Wilmersdorf,371
+2022-03-05,Charlottenburg-Wilmersdorf,78
+2022-03-06,Charlottenburg-Wilmersdorf,78
 2020-03-03,Spandau,0
 2020-03-04,Spandau,0
 2020-03-05,Spandau,0
@@ -6596,6 +6604,7 @@ date,location,new_cases
 2022-03-03,Spandau,618
 2022-03-04,Spandau,228
 2022-03-05,Spandau,0
+2022-03-06,Spandau,0
 2020-03-03,Lichtenberg,0
 2020-03-04,Lichtenberg,0
 2020-03-05,Lichtenberg,0
@@ -7329,6 +7338,7 @@ date,location,new_cases
 2022-03-03,Lichtenberg,397
 2022-03-04,Lichtenberg,320
 2022-03-05,Lichtenberg,79
+2022-03-06,Lichtenberg,0
 2020-03-03,Steglitz-Zehlendorf,0
 2020-03-04,Steglitz-Zehlendorf,0
 2020-03-05,Steglitz-Zehlendorf,0
@@ -8056,12 +8066,13 @@ date,location,new_cases
 2022-02-25,Steglitz-Zehlendorf,463
 2022-02-26,Steglitz-Zehlendorf,32
 2022-02-27,Steglitz-Zehlendorf,55
-2022-02-28,Steglitz-Zehlendorf,576
+2022-02-28,Steglitz-Zehlendorf,578
 2022-03-01,Steglitz-Zehlendorf,528
 2022-03-02,Steglitz-Zehlendorf,368
-2022-03-03,Steglitz-Zehlendorf,433
-2022-03-04,Steglitz-Zehlendorf,438
-2022-03-05,Steglitz-Zehlendorf,7
+2022-03-03,Steglitz-Zehlendorf,434
+2022-03-04,Steglitz-Zehlendorf,484
+2022-03-05,Steglitz-Zehlendorf,30
+2022-03-06,Steglitz-Zehlendorf,0
 2020-03-03,Treptow-Koepenick,0
 2020-03-04,Treptow-Koepenick,0
 2020-03-05,Treptow-Koepenick,0
@@ -8795,3 +8806,4 @@ date,location,new_cases
 2022-03-03,Treptow-Koepenick,458
 2022-03-04,Treptow-Koepenick,611
 2022-03-05,Treptow-Koepenick,0
+2022-03-06,Treptow-Koepenick,0
