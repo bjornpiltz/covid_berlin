@@ -1146,7 +1146,8 @@ date,location,new_cases
 2023-04-21,Marzahn-Hellersdorf,6
 2023-04-22,Marzahn-Hellersdorf,0
 2023-04-23,Marzahn-Hellersdorf,0
-2023-04-24,Marzahn-Hellersdorf,9
+2023-04-24,Marzahn-Hellersdorf,11
+2023-04-25,Marzahn-Hellersdorf,3
 2020-03-03,Mitte,3
 2020-03-04,Mitte,0
 2020-03-05,Mitte,4
@@ -2295,6 +2296,7 @@ date,location,new_cases
 2023-04-22,Mitte,0
 2023-04-23,Mitte,0
 2023-04-24,Mitte,4
+2023-04-25,Mitte,0
 2020-03-03,Neukoelln,1
 2020-03-04,Neukoelln,0
 2020-03-05,Neukoelln,0
@@ -3324,7 +3326,7 @@ date,location,new_cases
 2022-12-24,Neukoelln,0
 2022-12-25,Neukoelln,1
 2022-12-26,Neukoelln,2
-2022-12-27,Neukoelln,228
+2022-12-27,Neukoelln,227
 2022-12-28,Neukoelln,95
 2022-12-29,Neukoelln,84
 2022-12-30,Neukoelln,75
@@ -3432,7 +3434,7 @@ date,location,new_cases
 2023-04-11,Neukoelln,28
 2023-04-12,Neukoelln,8
 2023-04-13,Neukoelln,11
-2023-04-14,Neukoelln,6
+2023-04-14,Neukoelln,7
 2023-04-15,Neukoelln,0
 2023-04-16,Neukoelln,0
 2023-04-17,Neukoelln,15
@@ -3443,6 +3445,7 @@ date,location,new_cases
 2023-04-22,Neukoelln,0
 2023-04-23,Neukoelln,0
 2023-04-24,Neukoelln,8
+2023-04-25,Neukoelln,6
 2020-03-03,Tempelhof-Schoeneberg,1
 2020-03-04,Tempelhof-Schoeneberg,0
 2020-03-05,Tempelhof-Schoeneberg,0
@@ -4591,6 +4594,7 @@ date,location,new_cases
 2023-04-22,Tempelhof-Schoeneberg,0
 2023-04-23,Tempelhof-Schoeneberg,0
 2023-04-24,Tempelhof-Schoeneberg,13
+2023-04-25,Tempelhof-Schoeneberg,7
 2020-03-03,Friedrichshain-Kreuzberg,0
 2020-03-04,Friedrichshain-Kreuzberg,2
 2020-03-05,Friedrichshain-Kreuzberg,2
@@ -5692,7 +5696,7 @@ date,location,new_cases
 2023-03-06,Friedrichshain-Kreuzberg,30
 2023-03-07,Friedrichshain-Kreuzberg,16
 2023-03-08,Friedrichshain-Kreuzberg,0
-2023-03-09,Friedrichshain-Kreuzberg,34
+2023-03-09,Friedrichshain-Kreuzberg,33
 2023-03-10,Friedrichshain-Kreuzberg,25
 2023-03-11,Friedrichshain-Kreuzberg,0
 2023-03-12,Friedrichshain-Kreuzberg,0
@@ -5737,8 +5741,9 @@ date,location,new_cases
 2023-04-20,Friedrichshain-Kreuzberg,1
 2023-04-21,Friedrichshain-Kreuzberg,5
 2023-04-22,Friedrichshain-Kreuzberg,0
-2023-04-23,Friedrichshain-Kreuzberg,0
-2023-04-24,Friedrichshain-Kreuzberg,0
+2023-04-23,Friedrichshain-Kreuzberg,5
+2023-04-24,Friedrichshain-Kreuzberg,4
+2023-04-25,Friedrichshain-Kreuzberg,0
 2020-03-03,Pankow,0
 2020-03-04,Pankow,1
 2020-03-05,Pankow,2
@@ -6886,7 +6891,8 @@ date,location,new_cases
 2023-04-21,Pankow,9
 2023-04-22,Pankow,0
 2023-04-23,Pankow,0
-2023-04-24,Pankow,6
+2023-04-24,Pankow,9
+2023-04-25,Pankow,24
 2020-03-03,Reinickendorf,0
 2020-03-04,Reinickendorf,0
 2020-03-05,Reinickendorf,2
@@ -8035,6 +8041,7 @@ date,location,new_cases
 2023-04-22,Reinickendorf,0
 2023-04-23,Reinickendorf,0
 2023-04-24,Reinickendorf,5
+2023-04-25,Reinickendorf,2
 2020-03-03,Charlottenburg-Wilmersdorf,0
 2020-03-04,Charlottenburg-Wilmersdorf,0
 2020-03-05,Charlottenburg-Wilmersdorf,0
@@ -9183,6 +9190,7 @@ date,location,new_cases
 2023-04-22,Charlottenburg-Wilmersdorf,0
 2023-04-23,Charlottenburg-Wilmersdorf,0
 2023-04-24,Charlottenburg-Wilmersdorf,12
+2023-04-25,Charlottenburg-Wilmersdorf,8
 2020-03-03,Spandau,0
 2020-03-04,Spandau,0
 2020-03-05,Spandau,0
@@ -10330,7 +10338,8 @@ date,location,new_cases
 2023-04-21,Spandau,5
 2023-04-22,Spandau,0
 2023-04-23,Spandau,0
-2023-04-24,Spandau,7
+2023-04-24,Spandau,8
+2023-04-25,Spandau,13
 2020-03-03,Lichtenberg,0
 2020-03-04,Lichtenberg,0
 2020-03-05,Lichtenberg,0
@@ -11479,6 +11488,7 @@ date,location,new_cases
 2023-04-22,Lichtenberg,0
 2023-04-23,Lichtenberg,0
 2023-04-24,Lichtenberg,9
+2023-04-25,Lichtenberg,5
 2020-03-03,Steglitz-Zehlendorf,0
 2020-03-04,Steglitz-Zehlendorf,0
 2020-03-05,Steglitz-Zehlendorf,0
@@ -12626,7 +12636,8 @@ date,location,new_cases
 2023-04-21,Steglitz-Zehlendorf,15
 2023-04-22,Steglitz-Zehlendorf,0
 2023-04-23,Steglitz-Zehlendorf,0
-2023-04-24,Steglitz-Zehlendorf,0
+2023-04-24,Steglitz-Zehlendorf,14
+2023-04-25,Steglitz-Zehlendorf,6
 2020-03-03,Treptow-Koepenick,0
 2020-03-04,Treptow-Koepenick,0
 2020-03-05,Treptow-Koepenick,0
@@ -13775,3 +13786,4 @@ date,location,new_cases
 2023-04-22,Treptow-Koepenick,0
 2023-04-23,Treptow-Koepenick,0
 2023-04-24,Treptow-Koepenick,12
+2023-04-25,Treptow-Koepenick,6
