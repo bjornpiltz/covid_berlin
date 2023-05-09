@@ -1158,6 +1158,9 @@ date,location,new_cases
 2023-05-03,Marzahn-Hellersdorf,6
 2023-05-04,Marzahn-Hellersdorf,7
 2023-05-05,Marzahn-Hellersdorf,3
+2023-05-06,Marzahn-Hellersdorf,0
+2023-05-07,Marzahn-Hellersdorf,0
+2023-05-08,Marzahn-Hellersdorf,5
 2020-03-03,Mitte,3
 2020-03-04,Mitte,0
 2020-03-05,Mitte,4
@@ -2317,6 +2320,9 @@ date,location,new_cases
 2023-05-03,Mitte,12
 2023-05-04,Mitte,15
 2023-05-05,Mitte,5
+2023-05-06,Mitte,0
+2023-05-07,Mitte,0
+2023-05-08,Mitte,13
 2020-03-03,Neukoelln,1
 2020-03-04,Neukoelln,0
 2020-03-05,Neukoelln,0
@@ -3475,7 +3481,10 @@ date,location,new_cases
 2023-05-02,Neukoelln,12
 2023-05-03,Neukoelln,4
 2023-05-04,Neukoelln,5
-2023-05-05,Neukoelln,6
+2023-05-05,Neukoelln,7
+2023-05-06,Neukoelln,0
+2023-05-07,Neukoelln,0
+2023-05-08,Neukoelln,12
 2020-03-03,Tempelhof-Schoeneberg,1
 2020-03-04,Tempelhof-Schoeneberg,0
 2020-03-05,Tempelhof-Schoeneberg,0
@@ -4635,6 +4644,9 @@ date,location,new_cases
 2023-05-03,Tempelhof-Schoeneberg,3
 2023-05-04,Tempelhof-Schoeneberg,3
 2023-05-05,Tempelhof-Schoeneberg,5
+2023-05-06,Tempelhof-Schoeneberg,0
+2023-05-07,Tempelhof-Schoeneberg,0
+2023-05-08,Tempelhof-Schoeneberg,12
 2020-03-03,Friedrichshain-Kreuzberg,0
 2020-03-04,Friedrichshain-Kreuzberg,2
 2020-03-05,Friedrichshain-Kreuzberg,2
@@ -5793,7 +5805,10 @@ date,location,new_cases
 2023-05-02,Friedrichshain-Kreuzberg,9
 2023-05-03,Friedrichshain-Kreuzberg,6
 2023-05-04,Friedrichshain-Kreuzberg,4
-2023-05-05,Friedrichshain-Kreuzberg,0
+2023-05-05,Friedrichshain-Kreuzberg,5
+2023-05-06,Friedrichshain-Kreuzberg,0
+2023-05-07,Friedrichshain-Kreuzberg,0
+2023-05-08,Friedrichshain-Kreuzberg,0
 2020-03-03,Pankow,0
 2020-03-04,Pankow,1
 2020-03-05,Pankow,2
@@ -6953,6 +6968,9 @@ date,location,new_cases
 2023-05-03,Pankow,11
 2023-05-04,Pankow,13
 2023-05-05,Pankow,4
+2023-05-06,Pankow,0
+2023-05-07,Pankow,0
+2023-05-08,Pankow,0
 2020-03-03,Reinickendorf,0
 2020-03-04,Reinickendorf,0
 2020-03-05,Reinickendorf,2
@@ -7933,7 +7951,7 @@ date,location,new_cases
 2022-11-05,Reinickendorf,1
 2022-11-06,Reinickendorf,0
 2022-11-07,Reinickendorf,123
-2022-11-08,Reinickendorf,136
+2022-11-08,Reinickendorf,137
 2022-11-09,Reinickendorf,78
 2022-11-10,Reinickendorf,70
 2022-11-11,Reinickendorf,61
@@ -8112,6 +8130,9 @@ date,location,new_cases
 2023-05-03,Reinickendorf,11
 2023-05-04,Reinickendorf,6
 2023-05-05,Reinickendorf,12
+2023-05-06,Reinickendorf,0
+2023-05-07,Reinickendorf,0
+2023-05-08,Reinickendorf,5
 2020-03-03,Charlottenburg-Wilmersdorf,0
 2020-03-04,Charlottenburg-Wilmersdorf,0
 2020-03-05,Charlottenburg-Wilmersdorf,0
@@ -9271,6 +9292,9 @@ date,location,new_cases
 2023-05-03,Charlottenburg-Wilmersdorf,6
 2023-05-04,Charlottenburg-Wilmersdorf,8
 2023-05-05,Charlottenburg-Wilmersdorf,8
+2023-05-06,Charlottenburg-Wilmersdorf,0
+2023-05-07,Charlottenburg-Wilmersdorf,0
+2023-05-08,Charlottenburg-Wilmersdorf,10
 2020-03-03,Spandau,0
 2020-03-04,Spandau,0
 2020-03-05,Spandau,0
@@ -10430,6 +10454,9 @@ date,location,new_cases
 2023-05-03,Spandau,1
 2023-05-04,Spandau,8
 2023-05-05,Spandau,1
+2023-05-06,Spandau,0
+2023-05-07,Spandau,0
+2023-05-08,Spandau,6
 2020-03-03,Lichtenberg,0
 2020-03-04,Lichtenberg,0
 2020-03-05,Lichtenberg,0
@@ -11589,6 +11616,9 @@ date,location,new_cases
 2023-05-03,Lichtenberg,9
 2023-05-04,Lichtenberg,7
 2023-05-05,Lichtenberg,2
+2023-05-06,Lichtenberg,0
+2023-05-07,Lichtenberg,0
+2023-05-08,Lichtenberg,6
 2020-03-03,Steglitz-Zehlendorf,0
 2020-03-04,Steglitz-Zehlendorf,0
 2020-03-05,Steglitz-Zehlendorf,0
@@ -12748,6 +12778,9 @@ date,location,new_cases
 2023-05-03,Steglitz-Zehlendorf,2
 2023-05-04,Steglitz-Zehlendorf,12
 2023-05-05,Steglitz-Zehlendorf,10
+2023-05-06,Steglitz-Zehlendorf,0
+2023-05-07,Steglitz-Zehlendorf,0
+2023-05-08,Steglitz-Zehlendorf,13
 2020-03-03,Treptow-Koepenick,0
 2020-03-04,Treptow-Koepenick,0
 2020-03-05,Treptow-Koepenick,0
@@ -13906,4 +13939,7 @@ date,location,new_cases
 2023-05-02,Treptow-Koepenick,11
 2023-05-03,Treptow-Koepenick,3
 2023-05-04,Treptow-Koepenick,4
-2023-05-05,Treptow-Koepenick,2
+2023-05-05,Treptow-Koepenick,3
+2023-05-06,Treptow-Koepenick,0
+2023-05-07,Treptow-Koepenick,0
+2023-05-08,Treptow-Koepenick,10
